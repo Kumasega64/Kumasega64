@@ -8,11 +8,20 @@
         <p><strong>Kuma64</strong> </p>
         <img src="assets/bearmon.jpg" alt="Bearmon" width="33%" />
         <br><br>
-        <p><strong>Data Analyst</strong> </p>
+        <p><strong>Job:</strong></p>
+        <p>Data Analyst<p>
+        <p><strong>Summary:</strong></p>
         <!-- 🔗 Social Links -->
         <a href="https://www.linkedin.com/in/timothy-dance-231149259/">
           <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
+      </td>
+      <td align="left" width="60%">
+        <h2 align="center">Interest and Goals 💡 </h2>
+        <p>🐻 I enjoy working on Python scripts and full-stack development </p>
+        <p>💪 Currently working on improving my data engineering skillset </p>
+        <p>🔍 On the hunt for repos to help out in </p>
+    </tr>
   </table>
 </div>
 
@@ -86,9 +95,28 @@
     </td>
       <td align="center" width="30%">
          <img src="assets/yoshi.gif" alt=" " width="33%" > 
-      </td>
+    </td>
   </table>
 </div>
+
+<div align="center">
+  <h2> 🏆 Accomplishments</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        📰 <a href="https://devpost.com/software/tldr-aef8ug?_gl=1*2jkpri*_gcl_au*MTc1ODM1ODg5NS4xNzU4MDQwODc3*_ga*NTgxODUyODk0LjE3NTgwNDA4Nzc.*_ga_0YHJK3Y10M*czE3NTg2Mzk5MzQkbzMkZzEkdDE3NTg2NDAzNzUkajYwJGwwJGgw" target="_blank"><strong>1nd Place 305 hacks 2025</strong> - TLDR</a><br>
+       <br>
+         🍰 <a href="https://github.com/Kumasega64/SweetSweetRecipes" target="_blank"><strong>MDC Apple Showcase winner winter 2024</strong> - Sweet Sweet Recipes</a><br>
+       <br>
+        💰 <a href="https://devpost.com/software/financio-xg15bp" target="_blank"><strong>2nd Place Shellhacks 2024</strong> - Financio</a><br>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
       
       
