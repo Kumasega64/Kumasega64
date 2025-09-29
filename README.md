@@ -106,6 +106,8 @@
   <table>
     <tr>
       <td>
+        🐻 <a href="https://github.com/Albertoh16/Bear-Necessities" target="_blank"><strong>2nd Place Shellhacks 2025</strong> - Prep Bear</a><br>
+        <br>
         📰 <a href="https://devpost.com/software/tldr-aef8ug?_gl=1*2jkpri*_gcl_au*MTc1ODM1ODg5NS4xNzU4MDQwODc3*_ga*NTgxODUyODk0LjE3NTgwNDA4Nzc.*_ga_0YHJK3Y10M*czE3NTg2Mzk5MzQkbzMkZzEkdDE3NTg2NDAzNzUkajYwJGwwJGgw" target="_blank"><strong>1st Place 305 hacks 2025</strong> - TLDR</a><br>
         <br>  
         💰 <a href="https://devpost.com/software/financio-xg15bp" target="_blank"><strong>2nd Place Shellhacks 2024</strong> - Financio</a><br>
