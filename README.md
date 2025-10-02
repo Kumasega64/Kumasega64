@@ -18,7 +18,7 @@
       <td align="left" width="60%">
         <h2 align="center">Interest and Goals 💡 </h2>
         <p>🐻 I enjoy working on Python scripts and full-stack development </p>
-        <p>💪 Currently working on improving my data engineering skillset </p>
+        <p>💪 Currently working on improving my data engineering/fullstack skillset </p>
         <p>🔍 On the hunt for repos to help out in </p>
     </tr>
   </table>
